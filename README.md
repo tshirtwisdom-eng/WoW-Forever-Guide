@@ -32,7 +32,10 @@ Start **WoW Forever Guide** from the Start menu. It opens the class index in you
 - **Log into a character** and its class guide opens by itself. Each character keeps its own progress. A character you haven't played before is added the first time you log in.
 - **Leveling route:** each chapter is a list of quest steps. Steps tick themselves off as you complete quests in game, and the next step is always at the top. Quests tagged *Worth it* are especially good; *Skip unless you need the XP* ones can be left out.
 - **Character & Inventory:** your gear, bags, bank and stats as the game reports them, with the upgrades worth chasing at your level.
-- **Talents, professions, dungeons, maps, flight paths, reputations** are all in the left menu, filtered to your class.
+- **Quests:** open any quest for where to pick it up, where its mobs and items are on the map, what drops the quest items, who takes it back, and what to do first.
+- **Dungeons:** the Prep tab lists every quest for the dungeon (and the ones you need first) with numbered pickup pins; the Bosses tab shows boss portraits on the map, with a gold **!** on bosses that drop something you still need. Click a boss for its drops.
+- **Mounts:** riding at 40 and 60 for your race, where to train and buy, and every mount you can collect.
+- **Talents, professions, maps, flight paths, reputations** are all in the left menu, filtered to your class.
 - Offline, a guide opens on the character of that class you played last. Pick another one in the **CHARACTER** box at the top.
 
 | Leveling route | Character & inventory |
@@ -53,7 +56,18 @@ The book icon next to the clock is the live link. Hover over it to see who's in 
 
 **WoW Forever Guide Live Link** (folder `WoWForeverGuide`) is installed for you. It adds a book button on the minimap: click it for the sync window, **Alt+click** to open the guide, right-click for settings (also under *Esc › Options › AddOns*).
 
-Useful commands: `/wfg` (sync window), `/wfg open` (open the guide), `/wfg options`, `/wfg live` (live stream on/off), `/wfg help`.
+Useful commands: `/wfg` (sync window), `/wfg open` (open the guide), `/wfg panel` (in-game panel), `/wfg options`, `/wfg live` (live stream on/off), `/wfg help`.
+
+### The in-game panel (optional)
+
+A small panel in the game with your next quest steps from the class guide and reminders you would otherwise miss: new class spells, a profession rank to train, riding at 40 and 60. It is **off until you type `/wfg panel`**.
+
+![The in-game panel and its settings](docs/images/ingame-panel.png)
+
+- Each line says what to do and where; quests in progress show the objective and where the mobs or items are.
+- **Click** a line to put a pin on your map (TomTom if you have it). **x** skips a quest or dismisses a reminder; `/wfg panel restore` brings them back.
+- **Drag** it anywhere (or lock it). The title bar collapses it, opens its settings, or hides it.
+- **Settings** (`/wfg panel settings`, or the cog): size, width, text size, background opacity, number of steps, what it shows, hide in combat or in dungeons.
 
 ### Why is there a pixel strip?
 
