@@ -36,7 +36,7 @@ Start **WoW Forever Guide** from the Start menu. It opens the class index in you
 - **Dungeons:** the Prep tab lists every quest for the dungeon (and the ones you need first) with numbered pickup pins; the Bosses tab shows boss portraits on the map, with a gold **!** on bosses that drop something you still need. Click a boss for its drops.
 - **Mounts:** riding at 40 and 60 for your race, where to train and buy, and every mount you can collect.
 - **Talents & abilities:** the talent calculator matches the in-game trees. Hover a talent to see what it does and, if it gives an ability, its cost, range and cooldown before you spend the point. Below it are your full spellbook (every rank, by level) and ready-to-copy macros.
-- **Equipment:** besides the upgrades list, it names the random green suffixes worth looking for, like *…of the Owl* for casters.
+- **Equipment:** pick the spec you're gearing for (or let it follow your talents). It shows the dungeon set for your level and spec, which pieces you already have and who drops the rest, plus the random green suffixes worth looking for, like *…of the Owl* for casters. Each dungeon's page lists the sets that drop there.
 - **Professions, maps, flight paths, reputations** are all in the left menu, filtered to your class.
 - Offline, a guide opens on the character of that class you played last. Pick another one in the **CHARACTER** box at the top.
 
