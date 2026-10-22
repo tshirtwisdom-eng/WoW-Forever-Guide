@@ -31,7 +31,7 @@ Start **WoW Forever Guide** from the Start menu. It opens the class index in you
 
 - **Log into a character** and its class guide opens by itself. Each character keeps its own progress. A character you haven't played before is added the first time you log in.
 - **Leveling route:** each chapter is a list of quest steps. Steps tick themselves off as you complete quests in game, and the next step is always at the top. Quests tagged *Worth it* are especially good; *Skip unless you need the XP* ones can be left out.
-- **Character & Inventory:** your gear, bags, bank and stats as the game reports them, with the upgrades worth chasing at your level.
+- **Character & Inventory:** your gear, bags, bank and stats as the game reports them, with the upgrades worth chasing at your level. Quest items name their quest, and ones whose quest isn't in your quest log are marked red so you know they're probably safe to delete.
 - **Quests:** open any quest for where to pick it up, where its mobs and items are on the map, what drops the quest items, who takes it back, and what to do first.
 - **Dungeons:** the Prep tab lists every quest for the dungeon (and the ones you need first) with numbered pickup pins; the Bosses tab shows boss portraits on the map, with a gold **!** on bosses that drop something you still need. Click a boss for its drops.
 - **Mounts:** riding at 40 and 60 for your race, where to train and buy, and every mount you can collect.
