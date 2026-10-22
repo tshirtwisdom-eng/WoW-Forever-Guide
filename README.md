@@ -35,7 +35,9 @@ Start **WoW Forever Guide** from the Start menu. It opens the class index in you
 - **Quests:** open any quest for where to pick it up, where its mobs and items are on the map, what drops the quest items, who takes it back, and what to do first.
 - **Dungeons:** the Prep tab lists every quest for the dungeon (and the ones you need first) with numbered pickup pins; the Bosses tab shows boss portraits on the map, with a gold **!** on bosses that drop something you still need. Click a boss for its drops.
 - **Mounts:** riding at 40 and 60 for your race, where to train and buy, and every mount you can collect.
-- **Talents, professions, maps, flight paths, reputations** are all in the left menu, filtered to your class.
+- **Talents & abilities:** the talent calculator matches the in-game trees. Hover a talent to see what it does and, if it gives an ability, its cost, range and cooldown before you spend the point. Below it are your full spellbook (every rank, by level) and ready-to-copy macros.
+- **Equipment:** besides the upgrades list, it names the random green suffixes worth looking for, like *…of the Owl* for casters.
+- **Professions, maps, flight paths, reputations** are all in the left menu, filtered to your class.
 - Offline, a guide opens on the character of that class you played last. Pick another one in the **CHARACTER** box at the top.
 
 | Leveling route | Character & inventory |
@@ -48,6 +50,7 @@ The book icon next to the clock is the live link. Hover over it to see who's in 
 
 - **Open characters folder**: one file per character, so you can back them up or delete them.
 - **Show log**: what the app is doing, for when something doesn't work.
+- **Tablet & phone access…**: opens a page on your PC to turn it on (off by default). Scan the QR code with your tablet or phone and type the 4-digit code shown on the PC; the device then gets the full live guide on your home network. Remove paired devices on the same page. If Windows asks, allow the app on private networks only.
 - **Check for updates**
 - **Start with Windows**: off unless you turn it on.
 - **Quit**
